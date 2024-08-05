@@ -13,9 +13,6 @@ This project compares the usage of Apache Spark and Apache Iceberg libraries for
 ## Setup
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/spark-pyiceberg-compare.git
-   ```
 
 2. Install the required Python libraries:
    ```
